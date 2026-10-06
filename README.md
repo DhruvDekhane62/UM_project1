@@ -6,8 +6,7 @@
 ![Client](https://img.shields.io/badge/Client-Atlantic%20Recording%20Corporation-6366F1)
 
 > **Executive Client:** Atlantic Recording Corporation  
-> **Live Deployed Application:** [https://dhruvdekhane62-um-project1-app-uugher.streamlit.app/](https://dhruvdekhane62-um-project1-app-uugher.streamlit.app/)  
-> **GitHub Repository:** [https://github.com/DhruvDekhane62/UM_project1](https://github.com/DhruvDekhane62/UM_project1)  
+> **Live Deployed Application:** [https://dhruvdekhane62-um-project1-app-uugher.streamlit.app/](https://dhruvdekhane62-um-project1-app-uugher.streamlit.app/)   
 > **Dataset Timeframe:** May 18, 2024 – November 27, 2025 (555 Snapshot Days, 27,800 Track-Day Observations)
 
 ---
