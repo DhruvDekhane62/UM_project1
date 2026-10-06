@@ -1,0 +1,1 @@
+Metrics are approved. Run /build-dashboard. Show me browser screenshots of the default view, each filter alone, and the empty-result message. Tell me if any KPI on the dashboard differs from outputs/tables/kpis_overall.csv.

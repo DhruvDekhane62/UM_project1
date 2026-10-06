@@ -1,0 +1,1 @@
+Dashboard is approved. Run /draft-paper. Keep the table references in brackets so I can check them. After drafting, list every sentence that could be read as a causal claim and show the rewritten version.
